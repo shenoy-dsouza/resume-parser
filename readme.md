@@ -25,7 +25,18 @@ This project is a **Resume Parser** that extracts key details (Name, Email, Phon
     cd resume-parser
 ```
 
-### 2. Install dependencies:
+### 2. Create and activate a virtual environment:
+```sh
+# For macOS/Linux
+python -m venv venv
+source venv/bin/activate
+
+# For Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install dependencies:
 ```sh
     pip install -r requirements.txt
 ```
