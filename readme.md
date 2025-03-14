@@ -28,11 +28,11 @@ This project is a **Resume Parser** that extracts key details (Name, Email, Phon
 ### 2. Create and activate a virtual environment:
 ```sh
 # For macOS/Linux
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 # For Windows
-python -m venv venv
+python3 -m venv venv
 venv\Scripts\activate
 ```
 
